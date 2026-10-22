@@ -1,3 +1,4 @@
-/home/sii/ana/SII-55130/workspace/build/CMakeFiles/tenis.dir
-/home/sii/ana/SII-55130/workspace/build/CMakeFiles/edit_cache.dir
-/home/sii/ana/SII-55130/workspace/build/CMakeFiles/rebuild_cache.dir
+/home/sii/AnaA/SII-55130/workspace/build/CMakeFiles/tenis.dir
+/home/sii/AnaA/SII-55130/workspace/build/CMakeFiles/logger.dir
+/home/sii/AnaA/SII-55130/workspace/build/CMakeFiles/edit_cache.dir
+/home/sii/AnaA/SII-55130/workspace/build/CMakeFiles/rebuild_cache.dir

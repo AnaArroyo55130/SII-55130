@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/sii/ana/SII-55130/workspace/src/Esfera.cpp" "CMakeFiles/tenis.dir/src/Esfera.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/Esfera.cpp.o.d"
-  "/home/sii/ana/SII-55130/workspace/src/Mundo.cpp" "CMakeFiles/tenis.dir/src/Mundo.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/Mundo.cpp.o.d"
-  "/home/sii/ana/SII-55130/workspace/src/Plano.cpp" "CMakeFiles/tenis.dir/src/Plano.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/Plano.cpp.o.d"
-  "/home/sii/ana/SII-55130/workspace/src/Raqueta.cpp" "CMakeFiles/tenis.dir/src/Raqueta.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/Raqueta.cpp.o.d"
-  "/home/sii/ana/SII-55130/workspace/src/Vector2D.cpp" "CMakeFiles/tenis.dir/src/Vector2D.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/Vector2D.cpp.o.d"
-  "/home/sii/ana/SII-55130/workspace/src/tenis.cpp" "CMakeFiles/tenis.dir/src/tenis.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/tenis.cpp.o.d"
+  "/home/sii/AnaA/SII-55130/workspace/src/Esfera.cpp" "CMakeFiles/tenis.dir/src/Esfera.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/Esfera.cpp.o.d"
+  "/home/sii/AnaA/SII-55130/workspace/src/Mundo.cpp" "CMakeFiles/tenis.dir/src/Mundo.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/Mundo.cpp.o.d"
+  "/home/sii/AnaA/SII-55130/workspace/src/Plano.cpp" "CMakeFiles/tenis.dir/src/Plano.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/Plano.cpp.o.d"
+  "/home/sii/AnaA/SII-55130/workspace/src/Raqueta.cpp" "CMakeFiles/tenis.dir/src/Raqueta.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/Raqueta.cpp.o.d"
+  "/home/sii/AnaA/SII-55130/workspace/src/Vector2D.cpp" "CMakeFiles/tenis.dir/src/Vector2D.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/Vector2D.cpp.o.d"
+  "/home/sii/AnaA/SII-55130/workspace/src/tenis.cpp" "CMakeFiles/tenis.dir/src/tenis.cpp.o" "gcc" "CMakeFiles/tenis.dir/src/tenis.cpp.o.d"
   "" "tenis" "gcc" "CMakeFiles/tenis.dir/link.d"
   )
 

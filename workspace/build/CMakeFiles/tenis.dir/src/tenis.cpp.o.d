@@ -1,7 +1,7 @@
 CMakeFiles/tenis.dir/src/tenis.cpp.o: \
- /home/sii/ana/SII-55130/workspace/src/tenis.cpp \
+ /home/sii/AnaA/SII-55130/workspace/src/tenis.cpp \
  /usr/include/stdc-predef.h \
- /home/sii/ana/SII-55130/workspace/include/glut.h /usr/include/GL/gl.h \
+ /home/sii/AnaA/SII-55130/workspace/include/glut.h /usr/include/GL/gl.h \
  /usr/include/GL/glext.h /usr/include/KHR/khrplatform.h \
  /usr/lib/gcc/x86_64-linux-gnu/15/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -19,7 +19,7 @@ CMakeFiles/tenis.dir/src/tenis.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h /usr/include/GL/glu.h \
- /home/sii/ana/SII-55130/workspace/include/Mundo.h \
+ /home/sii/AnaA/SII-55130/workspace/include/Mundo.h \
  /usr/include/c++/15/vector /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \
@@ -64,9 +64,9 @@ CMakeFiles/tenis.dir/src/tenis.cpp.o: \
  /usr/lib/gcc/x86_64-linux-gnu/15/include/stddef.h \
  /usr/include/c++/15/bits/uses_allocator.h \
  /usr/include/c++/15/bits/uses_allocator_args.h /usr/include/c++/15/tuple \
- /home/sii/ana/SII-55130/workspace/include/Plano.h \
- /home/sii/ana/SII-55130/workspace/include/Esfera.h \
- /home/sii/ana/SII-55130/workspace/include/Vector2D.h \
+ /home/sii/AnaA/SII-55130/workspace/include/Plano.h \
+ /home/sii/AnaA/SII-55130/workspace/include/Esfera.h \
+ /home/sii/AnaA/SII-55130/workspace/include/Vector2D.h \
  /usr/include/c++/15/fstream /usr/include/c++/15/istream \
  /usr/include/c++/15/ios /usr/include/c++/15/iosfwd \
  /usr/include/c++/15/bits/stringfwd.h /usr/include/c++/15/bits/postypes.h \
@@ -175,4 +175,4 @@ CMakeFiles/tenis.dir/src/tenis.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++io.h \
  /usr/include/c++/15/bits/fstream.tcc \
- /home/sii/ana/SII-55130/workspace/include/Raqueta.h
+ /home/sii/AnaA/SII-55130/workspace/include/Raqueta.h
