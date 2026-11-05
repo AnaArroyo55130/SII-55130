@@ -11,6 +11,7 @@
 #include <math.h>
 #include <fcntl.h>
 #include <unistd.h>
+#include <sys/mman.h>
 
 //////////////////////////////////////////////////////////////////////
 // Construction/Destruction
@@ -165,7 +166,22 @@ void CMundo::OnTimer(int value)
 	  printf("Ha ganado el jugador 2\n");
 	  exit(0);
 	}
-
+	
+	//Actualizar datos compartidos
+	memoria->esfera=esfera;
+	memoria->raqueta1=jugador1;
+	
+	//Ejecutar accion bot
+	if(memoria->accion==1)
+	{
+		jugador1.y1 +=0.1;
+		jugador1.y2 +=0.1;
+	}
+	else if (memoria->accion==-1)
+	{
+		jugador1.y1 -=0.1;
+		jugador1.y2 -=0.1;
+	}
 
 }
 
@@ -216,4 +232,9 @@ void CMundo::Init()
 	
 	//tuberia FIFO
 	fd_FIFO = open("FIFO", O_WRONLY);
+	
+	int fd = open("/tmp/fichero_memoria", O_RDWR |O_CREAT, 0666);
+	ftruncate(fd, sizeof(DatosMemCompartida));
+	memoria = (DatosMemCompartida*)mmap(NULL, sizeof(DatosMemCompartida), PROT_READ |PROT_WRITE, MAP_SHARED, fd, 0);
+	close(fd);
 }
